@@ -1,7 +1,6 @@
-# chatterly advanced sign in plugin
+# myLogin for Chatterly
 
-Chatterly Advanced Sign In Plugin
-
+myLogin for Chatterly, formerly Chatterly Advanced Sign On
 This plugin is completely backwards-compatible with reddit OSS.
 
 This plugin introduces myLogin for Chatterly by adding three new login
