@@ -4,9 +4,9 @@ Chatterly Advanced Sign In Plugin
 
 This plugin is completely backwards-compatible with reddit OSS.
 
-This plugin introduces a brand new look for myChatt(and all variants) by adding
-three new login endpoints, /auth/signup, /auth/signin, and /auth/recovery. It also
-disables the pre-existing login and registration pages.
+This plugin introduces myLogin for Chatterly by adding three new login
+endpoints, /auth/signup, /auth/signin, and /auth/recovery. It also disables the 
+pre-existing login and registration pages.
 
 ## installation
 
