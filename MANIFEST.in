@@ -1,0 +1,3 @@
+recursive-include reddit_auth/public *
+recursive-include reddit_auth/templates *
+recursive-include reddit_auth/data *
